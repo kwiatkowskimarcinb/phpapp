@@ -1,3 +1,3 @@
 <?php
-echo "Release 0.2 - tested";
+echo "Release 0.3 - dev";
 ?>
